@@ -1,5 +1,4 @@
-## Summary
-# Household-Buddy-AI
+## Summary # Household-Buddy-AI
 An intelligent AI assistant for household management, recipes, and inventory tracking. "Household Buddy" is an intelligent AI-driven application designed to simplify household management. It acts as a personal assistant that connects recipe management, inventory tracking, and smart home appliances, ensuring your home runs efficiently.
 ## Key AI Features
 - **Voice-Controlled Recipe Assistant:** Effortlessly manage your recipes. Simply ask for a recipe, and the AI will list the ingredients, guide you through the process, and offer to add missing items directly to your shopping list.
